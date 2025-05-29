@@ -9,6 +9,8 @@ This project is the code used to construct the industrial knowledge graph of Chi
 └── fusion/             # Integrate knowledge of different languages
 ```
 ## Usage
+### datasets
+
 We construct the knowledge graph by calling the deepseek large model, so it is necessary to apply for the api_key on [deepseek](https://www.deepseek.com/) for experimental use.
 ```bash
 api_key="Your api_key"
