@@ -3,7 +3,6 @@ This project is the code used to construct the industrial knowledge graph of Chi
 ## Code directory
 ```bash
 .
-├── datasets/           # Used for storing datasets
 ├── extraction/         # Entity relationship extraction
 ├── purification/       # Purify the initially extracted entities and triples
 └── fusion/             # Integrate knowledge of different languages
