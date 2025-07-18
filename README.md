@@ -9,7 +9,7 @@ This project is the code used to construct the industrial knowledge graph of Chi
 ```
 ## Usage
 ### datasets
-The datasets are industrial data in Chinese, Vietnamese and Thai respectively, and the data are sourced from websites such as Qichacha, VnExpress, VietnamNet and ThaiNews. Datasets can be downloaded at [releases](https://drive.google.com/drive/folders/1IHDo6r92lOV7fxGTT651zweNL-5cAalw?usp=drive_link).
+The datasets are industrial data in Chinese, Vietnamese and Thai respectively, and the data are sourced from websites such as Qichacha, VnExpress, VietnamNet and ThaiNews. The dataset is published [here](https://drive.google.com/drive/folders/1IHDo6r92lOV7fxGTT651zweNL-5cAalw?usp=drive_link).
 ### api_key
 We construct the knowledge graph by calling the deepseek large model, so it is necessary to apply for the api_key on [deepseek](https://www.deepseek.com/) for experimental use.
 ```bash
